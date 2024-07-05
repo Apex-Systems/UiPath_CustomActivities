@@ -1,0 +1,13 @@
+{
+  "resourceManagerName": "UiPath.Activities.Calculadora.Resources.Resources",
+  "activities": [
+    {
+      "fullName": "UiPath.Activities.Calculadora.ActivityTemplate",
+      "shortName": "Template",
+      "displayNameKey": "ActivityTemplate_DisplayName",
+      "descriptionKey": "ActivityTemplate_Description",
+      "categoryKey": "Templates",
+      "viewModelType": "UiPath.Activities.Calculadora.ViewModels.ActivityTemplateViewModel"
+    }
+  ]
+}

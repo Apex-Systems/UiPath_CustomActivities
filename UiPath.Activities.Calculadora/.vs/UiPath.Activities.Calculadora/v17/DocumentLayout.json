@@ -1,0 +1,76 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\geova\\Documents\\UiPath Custom Activities\\UiPath.Activities.Calculadora\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E3BB847D-E0E0-4C24-ADC9-B6197F9794D9}|UiPath.Activities.Calculadora\\UiPath.Activities.Calculadora.csproj|c:\\users\\geova\\documents\\uipath custom activities\\uipath.activities.calculadora\\uipath.activities.calculadora\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3BB847D-E0E0-4C24-ADC9-B6197F9794D9}|UiPath.Activities.Calculadora\\UiPath.Activities.Calculadora.csproj|solutionrelative:uipath.activities.calculadora\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3BB847D-E0E0-4C24-ADC9-B6197F9794D9}|UiPath.Activities.Calculadora\\UiPath.Activities.Calculadora.csproj|c:\\users\\geova\\documents\\uipath custom activities\\uipath.activities.calculadora\\uipath.activities.calculadora\\viewmodels\\calculadoraviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3BB847D-E0E0-4C24-ADC9-B6197F9794D9}|UiPath.Activities.Calculadora\\UiPath.Activities.Calculadora.csproj|solutionrelative:uipath.activities.calculadora\\viewmodels\\calculadoraviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3BB847D-E0E0-4C24-ADC9-B6197F9794D9}|UiPath.Activities.Calculadora\\UiPath.Activities.Calculadora.csproj|C:\\Users\\geova\\Documents\\UiPath Custom Activities\\UiPath.Activities.Calculadora\\uipath.activities.calculadora\\resources\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{E3BB847D-E0E0-4C24-ADC9-B6197F9794D9}|UiPath.Activities.Calculadora\\UiPath.Activities.Calculadora.csproj|solutionrelative:uipath.activities.calculadora\\resources\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\Users\\geova\\Documents\\UiPath Custom Activities\\UiPath.Activities.Calculadora\\UiPath.Activities.Calculadora\\Resources\\Resources.resx",
+              "RelativeDocumentMoniker": "UiPath.Activities.Calculadora\\Resources\\Resources.resx",
+              "ToolTip": "C:\\Users\\geova\\Documents\\UiPath Custom Activities\\UiPath.Activities.Calculadora\\UiPath.Activities.Calculadora\\Resources\\Resources.resx",
+              "RelativeToolTip": "UiPath.Activities.Calculadora\\Resources\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-07-05T04:44:19.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CalculadoraViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\geova\\Documents\\UiPath Custom Activities\\UiPath.Activities.Calculadora\\UiPath.Activities.Calculadora\\ViewModels\\CalculadoraViewModel.cs",
+              "RelativeDocumentMoniker": "UiPath.Activities.Calculadora\\ViewModels\\CalculadoraViewModel.cs",
+              "ToolTip": "C:\\Users\\geova\\Documents\\UiPath Custom Activities\\UiPath.Activities.Calculadora\\UiPath.Activities.Calculadora\\ViewModels\\CalculadoraViewModel.cs",
+              "RelativeToolTip": "UiPath.Activities.Calculadora\\ViewModels\\CalculadoraViewModel.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAmwCwAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T04:35:05.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Calculadora.cs",
+              "DocumentMoniker": "C:\\Users\\geova\\Documents\\UiPath Custom Activities\\UiPath.Activities.Calculadora\\UiPath.Activities.Calculadora\\Calculadora.cs",
+              "RelativeDocumentMoniker": "UiPath.Activities.Calculadora\\Calculadora.cs",
+              "ToolTip": "C:\\Users\\geova\\Documents\\UiPath Custom Activities\\UiPath.Activities.Calculadora\\UiPath.Activities.Calculadora\\Calculadora.cs",
+              "RelativeToolTip": "UiPath.Activities.Calculadora\\Calculadora.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAwwAgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T04:20:03.075Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

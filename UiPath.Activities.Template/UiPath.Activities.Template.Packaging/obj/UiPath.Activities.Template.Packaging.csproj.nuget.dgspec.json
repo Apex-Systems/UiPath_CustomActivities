@@ -1,0 +1,152 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\geova\\Documents\\UiPath Custom Activities\\UiPath.Activities.Template\\UiPath.Activities.Template.Packaging\\UiPath.Activities.Template.Packaging.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\geova\\Documents\\UiPath Custom Activities\\UiPath.Activities.Template\\UiPath.Activities.Template.Packaging\\UiPath.Activities.Template.Packaging.csproj": {
+      "version": "1.0.187-dev.244",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\geova\\Documents\\UiPath Custom Activities\\UiPath.Activities.Template\\UiPath.Activities.Template.Packaging\\UiPath.Activities.Template.Packaging.csproj",
+        "projectName": "UiPath.Activities.Template",
+        "projectPath": "C:\\Users\\geova\\Documents\\UiPath Custom Activities\\UiPath.Activities.Template\\UiPath.Activities.Template.Packaging\\UiPath.Activities.Template.Packaging.csproj",
+        "packagesPath": "C:\\Users\\geova\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\geova\\Documents\\UiPath Custom Activities\\UiPath.Activities.Template\\UiPath.Activities.Template.Packaging\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\geova\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/uipath/Public.Feeds/_packaging/UiPath-Official/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\geova\\Documents\\UiPath Custom Activities\\UiPath.Activities.Template\\UiPath.Activities.Template\\UiPath.Activities.Template.csproj": {
+                "projectPath": "C:\\Users\\geova\\Documents\\UiPath Custom Activities\\UiPath.Activities.Template\\UiPath.Activities.Template\\UiPath.Activities.Template.csproj",
+                "privateAssets": "all"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\geova\\Documents\\UiPath Custom Activities\\UiPath.Activities.Template\\UiPath.Activities.Template\\UiPath.Activities.Template.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\geova\\Documents\\UiPath Custom Activities\\UiPath.Activities.Template\\UiPath.Activities.Template\\UiPath.Activities.Template.csproj",
+        "projectName": "UiPath.Activities.Template.Activities",
+        "projectPath": "C:\\Users\\geova\\Documents\\UiPath Custom Activities\\UiPath.Activities.Template\\UiPath.Activities.Template\\UiPath.Activities.Template.csproj",
+        "packagesPath": "C:\\Users\\geova\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\geova\\Documents\\UiPath Custom Activities\\UiPath.Activities.Template\\UiPath.Activities.Template\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\geova\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/uipath/Public.Feeds/_packaging/UiPath-Official/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "System.Activities.ViewModels": {
+              "target": "Package",
+              "version": "[1.0.0-20230919.1, )"
+            },
+            "UiPath.Activities.Api": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[22.4.1, )"
+            },
+            "UiPath.Workflow": {
+              "target": "Package",
+              "version": "[6.0.0-20220401-03, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
